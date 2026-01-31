@@ -1,0 +1,17 @@
+{
+  "name": "kundan-resume-website",
+  "version": "1.0.0",
+  "description": "Professional resume website for GitHub Pages",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "resume",
+    "portfolio",
+    "devops",
+    "github-pages"
+  ],
+  "author": "Kundan",
+  "license": "MIT"
+}

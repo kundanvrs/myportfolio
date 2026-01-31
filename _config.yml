@@ -1,0 +1,7 @@
+# GitHub Pages Configuration
+# Uncomment to use a custom domain
+# CNAME: yourdomain.com
+
+# Build settings
+markdown: kramdown
+theme: null
